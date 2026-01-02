@@ -12,7 +12,7 @@ This visualization showcases the dynamic rendering of blockchain-based assets. T
 
 ## Live Deployment
 
-[Experience the live Application](https://thisislefa.github.io/Cryptocurrency-Dashboard)
+[Experience the live Application](https://lefajmofokeng.github.io/Cryptocurrency-Dashboard)
 
 ---
 
@@ -195,7 +195,7 @@ This project demonstrates:
 ### Development
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/crypto-dashboard.git
+git clone https://github.com/lefajmofokeng/Crypto-Dashboard.git
 
 # Open in browser (no build required)
 open index.html
@@ -260,6 +260,7 @@ const ws = new WebSocket('wss://stream.binance.com:9443/ws');
 ---
 
 **Crypto Market Insights Dashboard** — A professional-grade cryptocurrency analytics platform demonstrating advanced web development skills for fintech applications. Ideal for portfolio showcasing and technical interviews.
+
 
 
 
