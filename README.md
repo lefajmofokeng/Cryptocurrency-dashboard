@@ -3,9 +3,16 @@
 ## Overview
 A sophisticated, production-ready cryptocurrency dashboard providing real-time market data, interactive visualizations, and personalized portfolio tracking. Built with modern web technologies, this dashboard showcases advanced API integration, responsive design, and professional-grade JavaScript architecture suitable for fintech applications.
 
+## Cryptocurrency Performance Dashboard: API Integration Preview
+
+This visualization showcases the dynamic rendering of blockchain-based assets. The component architecture focuses on low-latency data updates and the precise application of color-coded indicators to reflect real-time bullish and bearish market trends across the primary coin index.
+
+<img width="1920" height="5673" alt="cryptodashboard" src="https://github.com/user-attachments/assets/88ae4772-a6ba-4b95-845f-68ffb02b4c7a" />
+
+
 ## Live Deployment
 
-[See Live Demo](https://thisislefa.github.io/Cryptocurrency-Dashboard)
+[Experience the lIve Application](https://thisislefa.github.io/Cryptocurrency-Dashboard)
 
 ---
 
@@ -253,5 +260,6 @@ const ws = new WebSocket('wss://stream.binance.com:9443/ws');
 ---
 
 **Crypto Market Insights Dashboard** — A professional-grade cryptocurrency analytics platform demonstrating advanced web development skills for fintech applications. Ideal for portfolio showcasing and technical interviews.
+
 
 
