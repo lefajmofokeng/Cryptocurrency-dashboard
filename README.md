@@ -41,24 +41,79 @@ This visualization showcases the dynamic rendering of blockchain-based assets. T
 
 ## Technology Stack
 
-### Core Technologies
-- **HTML5**: Semantic markup with accessibility considerations
-- **CSS3**: Modern layout (Flexbox, Grid), CSS Custom Properties
-- **Vanilla JavaScript**: ES6+ with module pattern architecture
-- **TypeScript-Ready**: Code structure prepared for TypeScript migration
+Below is a **clean, professional GitHub-README–ready version** of your section using **real icons/logos**.
+This approach is widely used in serious open-source repos and renders well on GitHub.
 
-### APIs & Services
-- **CoinGecko API**: Primary market data source (free tier)
-- **Alternative.me**: Fear & Greed Index for market sentiment
-- **Binance Integration**: Direct trading links generation
-- **Pravatar**: Placeholder avatars for demonstration
+You can copy-paste this directly.
 
-### Development Tools
-- **Tailwind CSS**: Utility-first CSS framework (partial integration)
-- **Inter Font**: Modern, readable typography system
-- **LocalStorage API**: Persistent watchlist functionality
+---
 
+## Core Technologies
 
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" alt="HTML5" />&nbsp;
+  <strong>HTML5</strong> — Semantic markup with accessibility considerations  
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" alt="CSS3" />&nbsp;
+  <strong>CSS3</strong> — Modern layout (Flexbox, Grid), CSS Custom Properties  
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="JavaScript" />&nbsp;
+  <strong>Vanilla JavaScript</strong> — ES6+ with module pattern architecture  
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="24" alt="TypeScript" />&nbsp;
+  <strong>TypeScript-Ready</strong> — Code structure prepared for TypeScript migration  
+</p>
+
+---
+
+## APIs & Services
+
+<p align="left">
+  <img src="https://static.coingecko.com/s/coingecko-logo-2b4a4eeb40f6a3b58b8dbe5285bdcf4c2c343b6a1c7c16b63bc4d57f29bcbf64.svg" width="24" alt="CoinGecko" />&nbsp;
+  <strong>CoinGecko API</strong> — Primary cryptocurrency market data source (free tier)  
+</p>
+
+<p align="left">
+  <img src="https://alternative.me/favicon.ico" width="24" alt="Alternative.me" />&nbsp;
+  <strong>Alternative.me</strong> — Fear & Greed Index for market sentiment analysis  
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binance/binance-original.svg" width="24" alt="Binance" />&nbsp;
+  <strong>Binance Integration</strong> — Direct trading link generation  
+</p>
+
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/u/13883638?s=200&v=4" width="24" alt="Pravatar" />&nbsp;
+  <strong>Pravatar</strong> — Placeholder avatar service for UI demonstration  
+</p>
+
+---
+
+## Development Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="24" alt="Tailwind CSS" />&nbsp;
+  <strong>Tailwind CSS</strong> — Utility-first CSS framework (partial integration)  
+</p>
+
+<p align="left">
+  <img src="https://fonts.gstatic.com/s/i/productlogos/inter/v4/24px.svg" width="24" alt="Inter Font" />&nbsp;
+  <strong>Inter Font</strong> — Modern, readable typography system  
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" alt="LocalStorage" />&nbsp;
+  <strong>LocalStorage API</strong> — Persistent client-side watchlist functionality  
+</p>
+
+---
 
 ## Architecture Highlights
 
@@ -260,6 +315,7 @@ const ws = new WebSocket('wss://stream.binance.com:9443/ws');
 ---
 
 **Crypto Market Insights Dashboard** — A professional-grade cryptocurrency analytics platform demonstrating advanced web development skills for fintech applications. Ideal for portfolio showcasing and technical interviews.
+
 
 
 
